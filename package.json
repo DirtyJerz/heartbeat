@@ -1,0 +1,16 @@
+{
+  "name": "heartbeat",
+  "version": "0.0.1",
+  "description": "Listens for socket connections and logs intervals",
+  "main": "app.js",
+  "dependencies": {
+    "moment": "2.8.3",
+    "forever": "0.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DirtyJerz/heartbeat"
+  },
+  "author": "moconnor"
+}
+
